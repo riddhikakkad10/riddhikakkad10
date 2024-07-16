@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/riddhi-kakkad10/](https://www.linkedin.com/in/riddhi-kakkad10/)
 
 
-![](riddhikakkad10/riddhikakkad10/blob/main/GIF.gif)
+![](riddhikakkad10/blob/main/GIF.gif)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
